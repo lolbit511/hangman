@@ -1,0 +1,8 @@
+D:\unity projects\Hangman2\bin\Debug\Hangman2.exe.config
+D:\unity projects\Hangman2\bin\Debug\Hangman2.exe
+D:\unity projects\Hangman2\bin\Debug\Hangman2.pdb
+D:\unity projects\Hangman2\obj\Debug\Hangman2.csproj.AssemblyReference.cache
+D:\unity projects\Hangman2\obj\Debug\Hangman2.csproj.SuggestedBindingRedirects.cache
+D:\unity projects\Hangman2\obj\Debug\Hangman2.csproj.CoreCompileInputs.cache
+D:\unity projects\Hangman2\obj\Debug\Hangman2.exe
+D:\unity projects\Hangman2\obj\Debug\Hangman2.pdb
